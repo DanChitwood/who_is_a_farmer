@@ -1,6 +1,8 @@
 # Who is a farmer?
 
-### An interactive website examining the representation gap between the demographics of US land owners vs. local populations at the county level.
+## An interactive website examining the representation gap between the demographics of US land owners vs. local populations at the county level.
+
+### Designed by students in the *Coding across Cultures in Querétaro* Spring 2026 class. A collaboration between Michigan State University, [Department of Computational Mathematics, Science & Engineering](https://cmse.msu.edu/), [Farmworker Student Services](https://farmworker.msu.edu/), and [UNAM Escuela Nacional de Estudios Superiores Unidad León](https://enes.unam.mx/)
 
 The data is from:
 
